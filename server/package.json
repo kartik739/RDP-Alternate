@@ -1,0 +1,21 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "backend for remote",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "test": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@nut-tree/nut-js": "^3.0.0",
+        "body-parser": "^1.20.1",
+        "cors": "^2.8.5",
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
