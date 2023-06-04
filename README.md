@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77505989/221365345-21afd645-dfcb-4967-90ed-40262597b974.png" />
+  <img src="https://user-images.githubusercontent.com/77505989/221365345-21afd645-dfcb-4967-90ed-40262597b974.png"  />
 </p>
 
 Compared to traditional RDP systems, which are typically built using proprietary software and protocols, a JavaScript and Node.js-based system can offer several advantages:
